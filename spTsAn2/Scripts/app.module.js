@@ -9,7 +9,7 @@ System.register([], function(exports_1, context_1) {
                 function Welcome() {
                 }
                 Welcome.getMessage = function () {
-                    return 'Hello, World!';
+                    return 'Hello, World! This is an Angular 2 App';
                 };
                 return Welcome;
             }());
